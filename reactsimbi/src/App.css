@@ -1,0 +1,8 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+.text{
+    font-size: 28px;
+    color: rgb(48, 165, 165);
+    text-align: center;
+}

@@ -1,0 +1,31 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "API Projeto Rouanet",
+        "description": "API para consulta de projetos Rouanet",
+        "version": "1.0.0"
+    },
+    "servers": [
+        {
+            "url": "http://127.0.0.1:8000/",
+            "description": "API Local"
+        }
+    ],
+    "paths": {
+        "/dados": {
+            "get": {
+                "tags": [
+                    "/dados"
+                ],
+                "summary": "Obter todos os dados",
+                "description": "Retorna uma lista de dados",
+                "operationId": "getDados",
+                "responses": {
+                    "200": {
+                        "description": "Sucesso"
+                    }
+                }
+            }
+        }
+    }
+}
