@@ -1,7 +1,7 @@
 # DesafioSimbi
 Desafio feito para testar conhecimentos técnicos.
 
-Link Video demostração (Video Fechado).
+Link Video demostração .
 
 https://youtu.be/QNsQN_ZC8Bk
 
